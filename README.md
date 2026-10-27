@@ -11,7 +11,7 @@ Build on Everloot: a TypeScript client for the public API, the SavedVariables pa
 
 ## What it holds
 
-- TypeScript client (npm `@everloot/sdk`)
+- TypeScript client (to be published on npm as `@everloot/sdk`)
 - SavedVariables parser and upload batching
 - Local stdio MCP server for AI assistants
 
